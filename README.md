@@ -36,4 +36,5 @@ node app.js
 localhost:3000
 
 ## Link
+- App deployed to heroku with mongodb atlas
 https://salty-journey-29272.herokuapp.com/
