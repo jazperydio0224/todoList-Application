@@ -34,3 +34,6 @@ node app.js
 
 - Access the app through
 localhost:3000
+
+## Link
+https://salty-journey-29272.herokuapp.com/
